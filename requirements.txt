@@ -1,0 +1,6 @@
+aiogram==3.26.0
+Pillow==12.1.1
+reportlab==4.2.5
+python-docx==1.1.2
+pydantic-settings==2.7.0
+python-dotenv==1.1.0
