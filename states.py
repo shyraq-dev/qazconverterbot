@@ -7,7 +7,7 @@ waiting_video_format = State()
 # Дауысхат / Аудио                        
 waiting_voice_format = State()
 
-    # Сілтеме — хост таңдау
+# Сілтеме — хост таңдау
 waiting_upload_host = State()
         
     # Аудио редактор                                      
