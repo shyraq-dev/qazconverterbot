@@ -164,7 +164,7 @@ nohup python main.py &
 | Кітапхана | Нұсқа | Мақсаты |
 |---|---|---|
 | aiogram | 3.25.0+ | Telegram Bot Framework |
-| Pillow | 12.1.1 | Сурет өңдеу |
+| Pillow | 10.0.4 | Сурет өңдеу |
 | reportlab | 4.2.5 | PDF жасау |
 | python-docx | 1.1.2 | DOCX жасау |
 | moviepy | 2.1.1 | Видео/Аудио түрлендіру |
