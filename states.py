@@ -4,7 +4,7 @@ from aiogram.fsm.state import State, StatesGroup
                                                           # Видео                                               
 waiting_video_format = State()
                   
-# Дауысхат / Аудио                            
+# Дауысхат / Аудио                        
 waiting_voice_format = State()
 
     # Сілтеме — хост таңдау
