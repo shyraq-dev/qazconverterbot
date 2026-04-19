@@ -1,6 +1,6 @@
 from aiogram.fsm.state import State, StatesGroup      
                                                       class ConvertState(StatesGroup):                          # Сурет
-    waiting_format = State()                              collecting_photos = State()                           waiting_multi_format = State()
+waiting_format = State()                              collecting_photos = State()                           waiting_multi_format = State()
                                                           # Видео                                               
 waiting_video_format = State()
                   
