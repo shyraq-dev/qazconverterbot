@@ -6,3 +6,4 @@ from aiogram.fsm.state import State, StatesGroup
     # Сілтеме — хост таңдау                               waiting_upload_host = State()                     
     # Аудио редактор                                      waiting_audio_edit = State()      # тег / фон таңдау                                                        waiting_audio_title = State()     # атауы енгізу
     waiting_audio_artist = State()    # орындаушы енгізу                                                        waiting_audio_cover = State()     # фон сурет күту
+
